@@ -1,6 +1,6 @@
 public enum Specialties {
-    Cardiology,
+    CARDIOLOGY,
     ER,
-    Orthopedy,
-    None
+    ORTHOPEDY,
+    NONE
 }
